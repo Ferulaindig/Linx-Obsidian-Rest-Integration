@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "SPQy",
+      "Properties": [
+        {
+          "Id": "ResponseHeaders",
+          "Name": "ResponseHeaders",
+          "Type": "List:Generated:csQ1",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "ResponseBody",
+          "Name": "ResponseBody",
+          "Type": "List:Custom:O615",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "StatusCode",
+          "Name": "StatusCode",
+          "Type": "Compiled:Int32",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "csQ1",
+      "Properties": [
+        {
+          "Id": "Name",
+          "Name": "Name",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Value",
+          "Name": "Value",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

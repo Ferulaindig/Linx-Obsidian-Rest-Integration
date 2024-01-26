@@ -1,0 +1,11 @@
+{
+  "Id": "QmXg",
+  "Name": "FilesList",
+  "Properties": [
+    {
+      "Id": "pLvY",
+      "Name": "files",
+      "Type": "List:Compiled:String"
+    }
+  ]
+}

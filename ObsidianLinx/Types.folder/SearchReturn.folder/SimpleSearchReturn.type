@@ -1,0 +1,21 @@
+{
+  "Id": "O615",
+  "Name": "SimpleSearchReturn",
+  "Properties": [
+    {
+      "Id": "dgN8",
+      "Name": "filename",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VilW",
+      "Name": "score",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "Oh86",
+      "Name": "matches",
+      "Type": "List:Custom:4nf8"
+    }
+  ]
+}

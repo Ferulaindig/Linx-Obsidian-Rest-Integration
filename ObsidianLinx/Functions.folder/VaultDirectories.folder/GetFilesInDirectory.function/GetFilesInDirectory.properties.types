@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "RyZU",
+      "Properties": [
+        {
+          "Id": "hLnT",
+          "Name": "DirectoryPath",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

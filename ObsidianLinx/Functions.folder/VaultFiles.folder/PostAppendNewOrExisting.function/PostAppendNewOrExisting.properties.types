@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "XODW",
+      "Properties": [
+        {
+          "Id": "JEyk",
+          "Name": "ContentParam",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "yEcQ",
+          "Name": "FilePathFileNameParam",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

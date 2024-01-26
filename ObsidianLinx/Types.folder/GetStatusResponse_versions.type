@@ -1,0 +1,16 @@
+{
+  "Id": "SeeT",
+  "Name": "GetStatusResponse_versions",
+  "Properties": [
+    {
+      "Id": "dZPn",
+      "Name": "obsidian",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WmBg",
+      "Name": "self",
+      "Type": "Compiled:String"
+    }
+  ]
+}

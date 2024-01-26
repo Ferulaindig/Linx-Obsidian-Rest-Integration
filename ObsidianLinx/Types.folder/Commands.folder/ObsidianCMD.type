@@ -1,0 +1,16 @@
+{
+  "Id": "BRDn",
+  "Name": "ObsidianCMD",
+  "Properties": [
+    {
+      "Id": "RhBV",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BtzT",
+      "Name": "name",
+      "Type": "Compiled:String"
+    }
+  ]
+}

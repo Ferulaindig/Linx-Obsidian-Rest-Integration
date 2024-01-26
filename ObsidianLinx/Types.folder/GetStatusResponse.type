@@ -1,0 +1,26 @@
+{
+  "Id": "kcAl",
+  "Name": "GetStatusResponse",
+  "Properties": [
+    {
+      "Id": "xUaC",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zeqS",
+      "Name": "versions",
+      "Type": "Custom:SeeT"
+    },
+    {
+      "Id": "NqC3",
+      "Name": "service",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5PLf",
+      "Name": "authenticated",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

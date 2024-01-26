@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Custom:kcAl",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetSatus.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:kcAl"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

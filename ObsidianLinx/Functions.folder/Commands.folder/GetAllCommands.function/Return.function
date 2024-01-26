@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Custom:tFXC",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTGetCommands.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:tFXC"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

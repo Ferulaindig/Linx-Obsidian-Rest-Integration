@@ -1,0 +1,16 @@
+{
+  "Id": "spEr",
+  "Name": "ErrorCode",
+  "Properties": [
+    {
+      "Id": "cA29",
+      "Name": "message",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "67y2",
+      "Name": "errorcode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

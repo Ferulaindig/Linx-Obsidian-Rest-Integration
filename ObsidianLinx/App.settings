@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "SdBZ",
+    "Name": "ObsidianURLPlusPort",
+    "Type": "Compiled:String",
+    "Value": null
+  },
+  {
+    "Id": "w49G",
+    "Name": "ObsidianAPIKey",
+    "Type": "Compiled:String",
+    "Value": null
+  }
+]

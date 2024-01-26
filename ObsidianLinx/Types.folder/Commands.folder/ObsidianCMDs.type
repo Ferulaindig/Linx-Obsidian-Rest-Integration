@@ -1,0 +1,11 @@
+{
+  "Id": "tFXC",
+  "Name": "ObsidianCMDs",
+  "Properties": [
+    {
+      "Id": "7yfo",
+      "Name": "commands",
+      "Type": "List:Custom:BRDn"
+    }
+  ]
+}

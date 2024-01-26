@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Custom:QmXg",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTEndpoint.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:QmXg"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}
